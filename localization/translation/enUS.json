@@ -1,0 +1,9 @@
+{
+  "loginScreen": {
+    "login": "login"
+  },
+  "logoutScreen": {
+    "logout": "Logout"
+  },
+  "homeScreen": {}
+}
